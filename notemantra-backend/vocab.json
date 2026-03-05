@@ -1,0 +1,1 @@
+{"integral": 1, "derivative": 2, "matrix": 3, "force": 4, "velocity": 5, "gravity": 6, "acid": 7, "reaction": 8, "molecule": 9, "algorithm": 10, "loop": 11, "database": 12, "<PAD>": 0, "<UNK>": 13}

@@ -1,0 +1,26 @@
+{
+  "name": "notemantra-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/identity": "^4.13.0",
+    "@azure/storage-blob": "^12.31.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.6",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "microsoft-cognitiveservices-speech-sdk": "^1.48.0",
+    "mongodb": "^7.1.0",
+    "mongoose": "^9.2.4",
+    "multer": "^2.1.1",
+    "openai": "^6.25.0"
+  }
+}
